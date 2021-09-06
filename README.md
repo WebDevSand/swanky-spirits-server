@@ -1,7 +1,5 @@
 # Swanky Spirits
 
-![Swanky Logo](https://i.imgur.com/upwpD36.png)
-
 The main responsibility of the inventory management system is to be able to track the inventory levels of various items that your business needs in stock. You must keep track of the quantity of each item in stock, as well its price.
 
 Swanky Spirits is a fictitious liquor store with a physical address. The application was created for employees to be able to interact with the company's liquor and wine database to keep track of what's incoming and what's being sold at the store.
