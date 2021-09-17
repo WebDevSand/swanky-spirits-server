@@ -4,7 +4,7 @@ The main responsibility of the inventory management system is to be able to trac
 
 Swanky Spirits is a fictitious liquor store with a physical address. The application was created for employees to be able to interact with the company's liquor and wine database to keep track of what's incoming and what's being sold at the store.
 
-## Live APPS
+## Live APPS 
 
 [Live Website](https://callback-ktz.github.io/swanky-spirits-client) | [Heroku App](https://glacial-cliffs-16241.herokuapp.com)
 
